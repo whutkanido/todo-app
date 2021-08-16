@@ -42,7 +42,8 @@ body {
 	width: 380px; height: 600px;
 }
 
-.to-do-item {
+.to-do {
+	font-size: x-large;
 	color: white;
 	height: 80px; width: 360px;
 	border: 1px solid grey;
@@ -51,3 +52,12 @@ body {
 	margin-bottom: 10px;
 }
 
+.done {
+	font-size: x-large;
+	color: black;
+	height: 80px; width: 360px;
+	border: 1px solid grey;
+	background-color: salmon;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
